@@ -175,10 +175,4 @@ For questions, suggestions, or collaboration:
 
 
 
-## 🙏 Acknowledgment
 
-This project is developed based on the excellent open-source ecosystem of **PyTorch** and **Ultralytics**.
-We sincerely thank the community for their valuable contributions.
-
-```
-```
